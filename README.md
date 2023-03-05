@@ -32,21 +32,21 @@ n this task, I had a box of coins where any randomly chosen coin follows a Kumar
 
 This repository contains the following files:
 
-  ->  Task1.ipynb: Contains the code and explanation for Task 1
-  ->  Task2.ipynb: Contains the code and explanation for Task 2
-  ->  Task3.ipynb: Contains the code and explanation for Task 3
-  ->  Task5.ipynb: Contains the code and explanation for Task 5
-  ->  Task7.ipynb: Contains the code and explanation for Task 7
+  -  Task1.ipynb: Contains the code and explanation for Task 1
+  -  Task2.ipynb: Contains the code and explanation for Task 2
+  -  Task3.ipynb: Contains the code and explanation for Task 3
+  -  Task5.ipynb: Contains the code and explanation for Task 5
+  -  Task7.ipynb: Contains the code and explanation for Task 7
 
 ### Requirements
 
 The following packages are required to run the code:
 
-   -> numpy
-   -> pandas
-   -> matplotlib
-   -> seaborn
-   -> scikit-learn
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
     
 ### Usage
 
